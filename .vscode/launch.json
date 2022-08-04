@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HexagonalArchitectureApplication<hexagonalarchitecture>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.rbailen.sample.hexagonalarchitecture.HexagonalArchitectureApplication",
+            "projectName": "hexagonalarchitecture",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
